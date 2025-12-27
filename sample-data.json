@@ -1,0 +1,28 @@
+[
+  {
+    "schedule": "0 * * * * *",
+    "api": "https://httpbin.org/post",
+    "type": "ATLEAST_ONCE"
+  },
+  {
+    "schedule": "30 */5 * * * *",
+    "api": "https://httpbin.org/post",
+    "type": "ATLEAST_ONCE"
+  },
+  {
+    "schedule": "0 0 * * * *",
+    "api": "https://httpbin.org/post",
+    "type": "ATLEAST_ONCE"
+  },
+  {
+    "schedule": "31 10-15 1 * * MON-FRI",
+    "api": "https://httpbin.org/post",
+    "type": "ATLEAST_ONCE"
+  },
+  {
+    "schedule": "0 */15 * * * *",
+    "api": "https://jsonplaceholder.typicode.com/posts",
+    "type": "ATLEAST_ONCE"
+  }
+]
+
