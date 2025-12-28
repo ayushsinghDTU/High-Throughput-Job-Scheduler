@@ -557,6 +557,9 @@ Logs are written to:
 
 Log format: JSON with timestamps, levels, and structured metadata.
 
+## 📽️Project Demo
+[Watch Demo Video](./demo.mp4).
+
 ## License
 
 MIT
