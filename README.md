@@ -1,5 +1,10 @@
 # High-Throughput Job Scheduler
 
+# Quick Start
+npm install
+npm run build
+npm start
+
 A scalable, high-performance job scheduler system designed to execute thousands of scheduled HTTP POST requests per second with high accuracy and reliability.
 
 ## Table of Contents
@@ -558,5 +563,5 @@ MIT
 
 ## Author
 
-Built for Lenskart Job Scheduler Challenge
-
+Ayush
+Built for High-Throughput Job Scheduler Challenge.
